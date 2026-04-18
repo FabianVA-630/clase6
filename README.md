@@ -30,7 +30,13 @@
 					<th>Enfoque</th>
 				</tr>
 			</thead>
-			<tbody></tbody>
+			<tbody>
+				<tr>
+					<tb>Diseño y visualización de información</tb>
+					<tb>Comunicación y Gestión del Diseño</tb>
+					<tb>Comunicación Visual Estratégica</tb>
+				</tr>
+			</tbody>
 		</table>
 
         <script>
