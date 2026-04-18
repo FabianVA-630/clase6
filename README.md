@@ -41,6 +41,21 @@
 					<th>Comunicación y Gestión del Diseño</th>
 					<th>Gestión de publicidades</th>
 				</tr>
+				<tr>
+					<th>Diseño de interacción y experiencia</th>
+					<th>Comunicación y Gestión del Diseño</th>
+					<th>Diseño de Servicios y Experiencia</th>
+				</tr>
+				<tr>
+					<th>La interacción del Color; su anatomía y lenguaje</th>
+					<th>Morfología</th>
+					<th>Teoría y Aplicación del Color (CMF)</th>
+				</tr>
+				<tr>
+					<th>Ilustración editorial</th>
+					<th>Morfología</th>
+					<th>Composición Editorial y Tipográfica</th>
+				</tr>
 			</tbody>
 		</table>
 
