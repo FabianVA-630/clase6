@@ -15,7 +15,7 @@
 			}
 			
 			td, th{
-				border:2px solid black; 
+				border:10px solid black; 
 				padding: 1 rem;
 			}
         </style>
