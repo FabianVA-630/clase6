@@ -6,7 +6,7 @@
         <title>Un fetch</title>
         <style>
             body {
-                font-family: Helvetica, Arial, sans-serif, 12pt; 
+                font-family: Helvetica, Arial, sans-serif; 
             }
 			
 			table {
@@ -26,6 +26,8 @@
 			<thead>
 				<tr>
 					<th>Asignatura</th>
+					<th>Nivel</th>
+					<th>Track</th>
 					<th>Grupo</th>
 					<th>Enfoque</th>
 				</tr>
@@ -33,26 +35,36 @@
 			<tbody>
 				<tr>
 					<th>Diseño y visualización de información</th>
+					<th>Troncal</th>
+					<th>V y M</th>
 					<th>Comunicación y Gestión del Diseño</th>
 					<th>Comunicación Visual Estratégica</th>
 				</tr>
 				<tr>
 					<th>Diseño editorial y publicación</th>
+					<th>Troncal</th>
+					<th>V y M</th>
 					<th>Comunicación y Gestión del Diseño</th>
 					<th>Gestión de publicidades</th>
 				</tr>
 				<tr>
 					<th>Diseño de interacción y experiencia</th>
+					<th>Troncal</th>
+					<th>V y M</th>
 					<th>Comunicación y Gestión del Diseño</th>
 					<th>Diseño de Servicios y Experiencia</th>
 				</tr>
 				<tr>
 					<th>La interacción del Color; su anatomía y lenguaje</th>
+					<th>Abierto</th>
+					<th>Ambas</th>
 					<th>Morfología</th>
 					<th>Teoría y Aplicación del Color (CMF)</th>
 				</tr>
 				<tr>
 					<th>Ilustración editorial</th>
+					<th>Abierto</th>
+					<th>V y M</th>
 					<th>Morfología</th>
 					<th>Composición Editorial y Tipográfica</th>
 				</tr>
