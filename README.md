@@ -33,12 +33,13 @@
 			<tbody>
 				<tr>
 					<th>Diseño y visualización de información</th>
-					<th>Diseño editorial y publicación</th>
-					<th>Diseño de interacción y experiencia</th>
-					<th>La interacción del Color; su anatomía y lenguaje</th>
-					<th>Ilustración editorial</th>
 					<th>Comunicación y Gestión del Diseño</th>
 					<th>Comunicación Visual Estratégica</th>
+				</tr>
+				<tr>
+					<th>Diseño editorial y publicación</th>
+					<th>Comunicación y Gestión del Diseño</th>
+					<th>Gestión de publicidades</th>
 				</tr>
 			</tbody>
 		</table>
