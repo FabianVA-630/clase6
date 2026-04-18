@@ -25,6 +25,7 @@
 		<table>
 			<thead>
 				<tr>
+					<th>Código</th>
 					<th>Asignatura</th>
 					<th>Nivel</th>
 					<th>Track</th>
@@ -34,6 +35,7 @@
 			</thead>
 			<tbody>
 				<tr>
+					<th>AUD5V027</th>
 					<th>Diseño y visualización de información</th>
 					<th>Troncal</th>
 					<th>V y M</th>
@@ -41,6 +43,7 @@
 					<th>Comunicación Visual Estratégica</th>
 				</tr>
 				<tr>
+					<th>AUD6V020</th>
 					<th>Diseño editorial y publicación</th>
 					<th>Troncal</th>
 					<th>V y M</th>
@@ -48,6 +51,7 @@
 					<th>Gestión de publicidades</th>
 				</tr>
 				<tr>
+					<th>AUD7V021</th>
 					<th>Diseño de interacción y experiencia</th>
 					<th>Troncal</th>
 					<th>V y M</th>
@@ -55,6 +59,7 @@
 					<th>Diseño de Servicios y Experiencia</th>
 				</tr>
 				<tr>
+					<th>AUDIV025</th>
 					<th>La interacción del Color; su anatomía y lenguaje</th>
 					<th>Abierto</th>
 					<th>Ambas</th>
@@ -62,6 +67,7 @@
 					<th>Teoría y Aplicación del Color (CMF)</th>
 				</tr>
 				<tr>
+					<th>AUD7V015</th>
 					<th>Ilustración editorial</th>
 					<th>Abierto</th>
 					<th>V y M</th>
