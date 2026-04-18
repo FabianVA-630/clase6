@@ -15,7 +15,7 @@
 			}
 			
 			td, th{
-				border:1px solid black; 
+				border:2px solid black; 
 				padding: 1 rem;
 			}
         </style>
@@ -28,7 +28,7 @@
 					<th>Código</th>
 					<th>Asignatura</th>
 					<th>Nivel</th>
-					<th>Track</th>
+					<th>Mención</th>
 					<th>Grupo</th>
 					<th>Enfoque</th>
 				</tr>
