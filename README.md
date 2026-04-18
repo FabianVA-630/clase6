@@ -7,15 +7,17 @@
         <style>
             body {
                 font-family: Helvetica, Arial, sans-serif; 
+				font-size: 20px
             }
 			
 			table {
 				border-collapse: collapse;
 				text-align:left
+				color: var(--red)
 			}
 			
 			td, th{
-				border:10px solid black; 
+				border:1px solid black; 
 				padding: 1 rem;
 			}
         </style>
