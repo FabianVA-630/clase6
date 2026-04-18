@@ -6,7 +6,7 @@
         <title>Un fetch</title>
         <style>
             body {
-                font-family: Helvetica, Arial, sans-serif;
+                font-family: Helvetica, Arial, sans-serif; 12pt
             }
 			
 			table {
