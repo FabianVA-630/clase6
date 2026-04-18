@@ -32,9 +32,9 @@
 			</thead>
 			<tbody>
 				<tr>
-					<tb>Diseño y visualización de información</tb>
-					<tb>Comunicación y Gestión del Diseño</tb>
-					<tb>Comunicación Visual Estratégica</tb>
+					<th>Diseño y visualización de información</th>
+					<th>Comunicación y Gestión del Diseño</th>
+					<th>Comunicación Visual Estratégica</th>
 				</tr>
 			</tbody>
 		</table>
